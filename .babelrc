@@ -1,0 +1,8 @@
+//se establece un arreglo invocando los preset instalados, que uno trabajara para ecma 5 y6  y el otro jsx y react
+
+{
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  }
